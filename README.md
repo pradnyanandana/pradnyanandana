@@ -18,6 +18,6 @@ With an insatiable thirst for knowledge, I've cultivated a deep-rooted passion f
 
 If you're as passionate about technology and innovation as I am, I'd love to connect with you. Whether it's collaborating on projects, sharing insights, or exploring new opportunities, feel free to reach out. Let's work together to push the boundaries of what technology can achieve!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pradnyanandana). You can also check out my [portfolio](https://pradnyanandana.github.io/portfolio/) or dive into my tech musings on [Dev.to](https://dev.to/pradnyanandana) to explore more about my journey and insights.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pradnyanandana). You can also check out my [portfolio](https://pradnyanandana.github.io/portfolio/) or dive into my blog on [Dev.to](https://dev.to/pradnyanandana) to explore more about my journey and insights.
 
 Thank you for dropping by my profile – together, let's shape the future through code! 🚀
