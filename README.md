@@ -10,11 +10,11 @@ So, a little about me - I'm a tech enthusiast, always hungry for the latest tech
 
 Here's what I'm good at:
 
-Languages: PHP, JavaScript, Python
-Web Development: Making strong and flexible web apps
-Innovation: Staying up-to-date with the coolest tech trends
-Problem Solving: I'm your go-to guy for tackling tricky problems with clever solutions
-Project Delivery: I make sure projects are top-notch and delivered on time
+- **Languages**: PHP, JavaScript, Python
+- **Web Development**: Making strong and flexible web apps
+- **Innovation**: Staying up-to-date with the coolest tech trends
+- **Problem Solving**: I'm your go-to guy for tackling tricky problems with clever solutions
+- **Project Delivery**: I make sure projects are top-notch and delivered on time
 
 ## 📞 Get in Touch
 
